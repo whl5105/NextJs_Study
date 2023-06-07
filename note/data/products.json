@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1234",
+    "name": "청바지",
+    "price": 5000,
+    "image": "clothes.jpg"
+  },
+  {
+    "id": "45621",
+    "name": "티셔츠",
+    "price": 4000,
+    "image": "clothes.jpg"
+  },
+  {
+    "id": "4564532",
+    "name": "부츠",
+    "price": 3000,
+    "image": "clothes.jpg"
+  }
+]
